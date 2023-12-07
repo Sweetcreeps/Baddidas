@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/Baddidas/static/css/main.1c10791c.chunk.css",
-    "main.js": "/Baddidas/static/js/main.1d82c582.chunk.js",
-    "main.js.map": "/Baddidas/static/js/main.1d82c582.chunk.js.map",
-    "runtime-main.js": "/Baddidas/static/js/runtime-main.63a6e544.js",
-    "runtime-main.js.map": "/Baddidas/static/js/runtime-main.63a6e544.js.map",
-    "static/js/2.8b3b8f9f.chunk.js": "/Baddidas/static/js/2.8b3b8f9f.chunk.js",
-    "static/js/2.8b3b8f9f.chunk.js.map": "/Baddidas/static/js/2.8b3b8f9f.chunk.js.map",
+    "main.css": "/Baddidas/static/css/main.d8da1836.css",
+    "main.js": "/Baddidas/static/js/main.492055ff.js",
     "index.html": "/Baddidas/index.html",
-    "precache-manifest.91cb813b5a035afbc64cd342eb5329c2.js": "/Baddidas/precache-manifest.91cb813b5a035afbc64cd342eb5329c2.js",
-    "service-worker.js": "/Baddidas/service-worker.js",
-    "static/css/main.1c10791c.chunk.css.map": "/Baddidas/static/css/main.1c10791c.chunk.css.map",
-    "static/js/2.8b3b8f9f.chunk.js.LICENSE.txt": "/Baddidas/static/js/2.8b3b8f9f.chunk.js.LICENSE.txt"
+    "main.d8da1836.css.map": "/Baddidas/static/css/main.d8da1836.css.map",
+    "main.492055ff.js.map": "/Baddidas/static/js/main.492055ff.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.63a6e544.js",
-    "static/js/2.8b3b8f9f.chunk.js",
-    "static/css/main.1c10791c.chunk.css",
-    "static/js/main.1d82c582.chunk.js"
+    "static/css/main.d8da1836.css",
+    "static/js/main.492055ff.js"
   ]
 }
